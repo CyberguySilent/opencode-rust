@@ -1,0 +1,13 @@
+Sur la branche opencode-local-branch
+
+Aucun commit
+
+Fichiers non suivis:
+  (utilisez "git add <fichier>..." pour inclure dans ce qui sera validé)
+	.gitignore
+	Cargo.lock
+	Cargo.toml
+	file_status.txt
+	src/
+
+aucune modification ajoutée à la validation mais des fichiers non suivis sont présents (utilisez "git add" pour les suivre)
